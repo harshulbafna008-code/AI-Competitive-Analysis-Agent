@@ -18,7 +18,6 @@ A multi-agent AI system that researches any company using live web search and ge
 
 ## Setup
 \`\`\`bash
-git clone https://github.com/<your-username>/competitive-analysis-agent.git
 cd competitive-analysis-agent
 python -m venv venv
 venv\Scripts\activate      # Windows
